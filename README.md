@@ -11,4 +11,4 @@ _You **can** combine them_
 
 If you want to embed images, this is how you do it:
 
-![Image of daftpunktocat-thomas](https://octodex.github.com/daftpunktocat-thomas)
+![Image of daftpunktocat-thomas](https://octodex.github.com/images/daftpunktocat-thomas.png)
