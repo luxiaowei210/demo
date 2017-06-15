@@ -8,3 +8,7 @@ __This will also be bold__
 
 ~~This will also be bold~~
 _You **can** combine them_
+
+If you want to embed images, this is how you do it:
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
