@@ -11,4 +11,4 @@ _You **can** combine them_
 
 If you want to embed images, this is how you do it:
 
-![Image of Yaktocat](http://image.so.com/zv?ch=wallpaper&src=home_wallpaper#ch=wallpaper&src=home_wallpaper&lightboxindex=5&groupid=ec47bb339aef605a24ee68dc0691cc94&itemindex=0&dataindex=159.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
